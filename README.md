@@ -76,4 +76,3 @@ sample messages produced are
 Now messages were getting evenly distributed among the consumers
 (after the 10 messages from earlier had produced 6 more new messages with this key partitioning and they got distributed as 2 + 2 + 2 among 3 consumers)
  
-![image](https://github.com/Nazima-Begum/Set-up-Kafka-cluster-on-a-mac/assets/61704494/9cf522eb-fa87-4c3a-832d-43ed732ce635)
